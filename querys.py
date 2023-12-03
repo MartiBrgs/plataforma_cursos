@@ -47,12 +47,16 @@ query12 = ''
 # Encontrar paises con mayor participación en cada curso
 query13 = ''
 
+# Listar los métodos de pago preferido y rankear por país
 query14 = ''
 
+# Listar las ofertas con mayor adherencia
 query15 = ''
 
+# Edad promedio de los usuarios por curso
 query16 = ''
 
+# Edad promedio de los usuarios por país
 query17 = ''
 
 conn.close()
